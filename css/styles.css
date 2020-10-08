@@ -1,0 +1,158 @@
+body{
+  font-family: 'Crimson Text', serif;
+  background-size: cover;
+}
+
+h1{
+  font-family: 'Recursive', sans-serif;
+}
+
+.heading{
+  text-align: center;
+  font-size: 5rem;
+}
+
+.jumbotron .navbar{
+  background-color:#4ea0ae !important;
+}
+
+#education {
+  padding: 0px 50px;
+}
+
+.edd-img{
+  width: 40%;
+}
+
+.edd-heading, .project-heading{
+  text-align: center;
+  margin: 50px;
+  font-size: 2rem;
+}
+
+.arc{
+  margin-right: 50px;
+}
+
+.college-div{
+  width: 315px;
+  height: 315px;
+}
+
+.todolist-img{
+  width: 368px;
+  height: 493px;
+}
+
+.todolist{
+  margin-left: 200px;
+  text-align: center;
+}
+
+.newsletter{
+  text-align: center;
+}
+
+#projects{
+  margin: 50px 0px;
+}
+
+.project-heading{
+  margin-bottom: 50px;
+}
+
+.hr-split{
+  margin: 100px 0px;
+}
+
+.btn{
+  justify-content: center;
+}
+
+.cta-heading{
+  font-family: 'Recursive', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+#cta{
+  text-align: center;
+  padding: 7% 15%;
+}
+
+#footer{
+  text-align: center;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
+
+
+.contact-heading{
+  font-size: 2rem;
+  text-align: center;
+}
+
+label{
+  font-size: 1.1rem;
+  font-family: 'Recursive', sans-serif;
+}
+
+input{
+  width: 700px;
+  height:  30px;
+}
+
+.contact-details, .project-details, .business-details{
+  margin: 0px 300px;
+  text-align: justify;
+}
+
+.date{
+  margin-bottom: 25px;
+}
+
+.contact-button{
+  text-align: center;
+}
+
+.skill-img{
+  position: absolute;
+  top: 1100px;
+  right: auto;
+  margin-left: 900px;
+}
+
+.skills, .accomplishments, .hobbies{
+  margin-left: 50px;
+}
+
+.accomplish-img{
+  position: absolute;
+  top: 1450px;
+  right: auto;
+  margin-left: 850px;
+}
+
+.hobby-img{
+  position: absolute;
+  top: 1775px;
+  right: auto;
+}
+
+.travel{
+  margin-left: 900px;
+  width: 25%;
+  height: 35%
+}
+
+.food{
+  margin-left: 300px;
+  width: 25.5%;
+}
+
+.question{
+  margin-left: 600px;
+  width: 25%;
+}
